@@ -26,9 +26,9 @@ const Dhyey = {
 ```
 
 ### 📊 Github Stats
-![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api?username=dk3775&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dk3775&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk3775&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical)
+![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api?username=dk3775&show_icons=true&theme=radical)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dk3775&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk3775&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical)<br>
 
 # Contact Me :
 
@@ -36,16 +36,16 @@ const Dhyey = {
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Anjan-99/Anjan-99/blob/main/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/dk3775/dk3775/blob/main/assets/93195.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:dhk22500@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Anjan-99/Anjan-99/blob/main/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/dk21">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Anjan-99/Anjan-99/blob/main/assets/icons/linkedin.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/linkedin.png" />
 </a>
  </p>
 </br>
