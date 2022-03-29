@@ -1,27 +1,23 @@
 <h2> Hi, I'm Dhyey Kathiriya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.linkedin.com/school/darshanuniversity/?trk=public_profile_topcard-school">Darshan University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CEO & Developer at <a href="www.titanslab.in">Titans Lab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Learning Software Engineering at <a href="https://www.linkedin.com/school/darshanuniversity/?trk=public_profile_topcard-school">Darshan University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CEO & Developer at <a href="www.titanslab.in">TitansLab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/DhyeyHk?style=social)](https://twitter.com/DhyeyHk)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Dhyey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dk21)](https://www.linkedin.com/in/dk21)
-[![GitHub Thaiane](https://img.shields.io/github/followers/dk3775?label=follow&style=social)](https://github.com/dk3775)
+[![Twitter: DhyeyHk](https://img.shields.io/twitter/follow/DhyeyHk?style=social)](https://twitter.com/DhyeyHk)
+[![Linkedin: dk21](https://img.shields.io/badge/-Dhyey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dk21)](https://www.linkedin.com/in/dk21)
+[![GitHub dk3775](https://img.shields.io/github/followers/dk3775?label=follow&style=social)](https://github.com/dk3775)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Dhyey = {
+  nouns: "dk",
   pronouns: "he",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Javascript, PHP, HTML, CSS, C, C++, Python, Java],
+  tools: [Node, VS Code, Synk, GitHub, Polypane, JetBrains],
+  frameworks: [Wordpress],
+  intrests: [Cloud, Servers, Management, Team Building]
 }
 ```
 
