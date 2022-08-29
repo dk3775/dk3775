@@ -24,7 +24,7 @@ const Dhyey = {
 ### 📊 Github Stats
 ![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api?username=dk3775&show_icons=true&theme=radical)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dk3775&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk3775&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical)<br>
+![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk3775&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
 
 # Contact Me :
 
