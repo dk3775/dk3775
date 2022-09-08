@@ -54,7 +54,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/xTeVhRpCiQHTe9XGcU" width="60" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/warnerarchive-classic-film-key-largo-xTeVhRpCiQHTe9XGcU">via GIPHY</a></p> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/xTeVhRpCiQHTe9XGcU/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>"CYA"⚡️</h1>
 
