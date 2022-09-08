@@ -32,7 +32,7 @@ const Dhyey = {
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/dk3775/dk3775/blob/main/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/dk3775/dk3775/blob/main/assets/giphy.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -54,7 +54,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-<img src="https://media.giphy.com/media/xTeVhRpCiQHTe9XGcU/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>"CYA"⚡️</h1>
 
