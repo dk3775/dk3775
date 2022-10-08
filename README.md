@@ -26,6 +26,9 @@ const Dhyey = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dk3775&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
 ![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk3775&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
 
+### Badges
+[![@dk3775's Holopin board](https://holopin.io/api/user/board?user=dk3775)](https://holopin.io/@dk3775)
+
 # Contact Me :
 
 <p>
@@ -61,4 +64,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-[![@dk3775's Holopin board](https://holopin.io/api/user/board?user=dk3775)](https://holopin.io/@dk3775)
