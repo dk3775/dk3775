@@ -13,7 +13,7 @@
 ```javascript
 const Dhyey = {
   nouns: "dk",
-  pronouns: "he",
+  pronouns: "he/him",
   code: [Javascript, PHP, HTML, CSS, C, C++, Python, Java],
   tools: [Node, VS Code, Synk, GitHub, Polypane, JetBrains],
   frameworks: [Wordpress, Prestashop],
@@ -61,4 +61,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
+[![@dk3775's Holopin board](https://holopin.io/api/user/board?user=dk3775)](https://holopin.io/@dk3775)
