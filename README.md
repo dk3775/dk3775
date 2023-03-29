@@ -14,9 +14,9 @@
 const Dhyey = {
   nouns: "dk",
   pronouns: "he/him",
-  code: [Javascript, PHP, HTML, CSS, C, C++, Python, Java],
+  code: [JS, TS, PHP, HTML, CSS, C, C++, Python, Java],
   tools: [Node, VS Code, Synk, GitHub, JetBrains],
-  frameworks: [Wordpress, Prestashop],
+  frameworks: [Wordpress, Prestashop, Angular, React],
   intrests: [Cloud, Servers, Prompting, Team Building]
 }
 ```
