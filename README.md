@@ -40,11 +40,15 @@ const Dhyey = {
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:dhk22500@gmail.com">
+<a href="mailto:dhyeyk@duck.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/dk21">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/linkedin.png" />
+</a>
+<a href="https://www.buymeacoffee.com/dhyeyk">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/buyme.webp
+    " />
 </a>
  </p>
 </br>
