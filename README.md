@@ -14,10 +14,10 @@
 const Dhyey = {
   nouns: "dk",
   pronouns: "he/him",
-  code: [JS, TS, PHP, HTML, CSS, C, C++, Python, Java],
-  tools: [Node, VS Code, Synk, GitHub, JetBrains],
-  frameworks: [Wordpress, Prestashop, Angular, React],
-  intrests: [Cloud, Servers, Prompting, Team Building]
+  code: [JS, TS, PHP, HTML, CSS, C, C++, Python, Java, Rust],
+  tools: [vim, code-insiders, copilot],
+  intrests: [Cloud, Servers, Prompting, Team Building],
+  curr os: "Fedora 39"
 }
 ```
 
