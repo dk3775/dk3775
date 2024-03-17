@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dhyey Kathiriya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Learning Cloud at <a href="https://www.linkedin.com/school/ganpat-university/">ICT Ganpat University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CEO & Developer at <a href="www.titanslab.in">TitansLab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Learning Cloud at <a href="https://www.linkedin.com/school/ganpat-university/">ICT Ganpat University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CEO & Developer at <a href="https://titanslab.in">TitansLab</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: DhyeyHk](https://img.shields.io/twitter/follow/DhyeyHk?style=social)](https://twitter.com/DhyeyHk)
