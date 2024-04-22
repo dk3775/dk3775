@@ -17,7 +17,7 @@ const Dhyey = {
   code: [JS, TS, PHP, HTML, CSS, C, C++, Python, Java, Rust],
   tools: [vim, code-insiders, copilot],
   intrests: [Cloud, Servers, Prompting, Team Building],
-  "curr os": "Fedora 39"
+  "curr os": "Elementry Os7"
 }
 ```
 
