@@ -16,7 +16,7 @@ const Dhyey = {
   pronouns: "he/him",
   code: [JS, TS, PHP, HTML, CSS, C, C++, Python, Java, Rust],
   tools: [vim, code-insiders, copilot],
-  intrests: [Cloud, Servers, Prompting, Team Building],
+  intrests: [Cloud, Servers, Prompting, Team Building, AI, ML],
   "curr os": "Debian 12"
 }
 ```
