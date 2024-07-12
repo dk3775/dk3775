@@ -17,7 +17,7 @@ const Dhyey = {
   code: [JS, TS, PHP, HTML, CSS, C, C++, Python, Java, Rust],
   tools: [vim, code-insiders, copilot],
   intrests: [Cloud, Servers, Prompting, Team Building, AI, ML],
-  "curr os": "Debian 12"
+  "curr os": "Arch"
 }
 ```
 
