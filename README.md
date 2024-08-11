@@ -22,9 +22,9 @@ const Dhyey = {
 ```
 
 ### 📊 Github Stats
-![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api?username=dk3775&show_icons=true&theme=radical)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dk3775&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk3775&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
+![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api?username=dk3775&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dk3775&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Dhyey GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dk3775&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)
 
 ### Badges
 [![@dk3775's Holopin board](https://holopin.io/api/user/board?user=dk3775)](https://holopin.io/@dk3775)
@@ -47,8 +47,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/linkedin.png" />
 </a>
 <a href="https://www.buymeacoffee.com/dhyeyk">
-  <img align="left" alt="Buymeapizza" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/buyme.webp
-    " />
+  <img align="left" alt="Buymeapizza" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/buyme.webp" />
 </a>
  </p>
 </br>
